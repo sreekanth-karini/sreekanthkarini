@@ -10,12 +10,12 @@ const AboutMe = () => (
       <div className="uk-card uk-card-default card">
         <div className="cardBody">
           <div className="bodyLeft">
-            <p className="description">I have been teaching coding and programming close to 5 years now, and been offering my services online for the last two years. If you are looking for a tutor that is patient, pedagogic and pragmatic, then I'm the one for you ;) Check out the “what I teach Section” to learn more about what I teach. To learn more about my professional background check out my linkedin and W3Schools public profile</p>
-            <h3 className="sign">Adrienne</h3>
+            <p className="description">I have been teaching coding and programming close to 10 years now, and been offering my services online for the last two years. If you are looking for a tutor that is patient, pedagogic and pragmatic, then I'm the one for you ;) Check out the “what I teach Section” to learn more about what I teach. To learn more about my professional background check out my linkedin and W3Schools public profile</p>
+            <h3 className="sign">Sreekanth</h3>
           </div>
           <div className="bodyRight">
             <img className="uk-border-circle" width="250" height="250" src="images/avatar.jpg" alt="Adrienne" />
-            <h3 className="sign">Adrienne</h3>
+            <h3 className="sign">Sreekanth</h3>
           </div>
         </div>
       </div>

@@ -23,8 +23,8 @@ const NavigationBar = () => {
       <div className="backdrop" onClick={closeSliderMenu}></div>
       <div className="mainHeader">
         <div className="headerTitle">
-          <a href="/">TUTOR </a>
-          <a className="headerTitlename" href="/">Adrienne</a>
+          <a href="/"> </a>
+          <a className="headerTitlename" href="/">Sreekanth</a>
         </div>
         <div className="menuItems">
           <a className="menuItem" href="#aboutme">About</a>

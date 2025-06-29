@@ -6,7 +6,7 @@ const IntroPanel = () => (
     <div className="contents">
       <img className="uk-border-circle" width="145" height="145" src="images/avatar.jpg" alt="Adrienne" />
       <div className="title">
-        <span className="subTitle">Online tutoring with Adrienne</span>
+        <span className="subTitle">Online tutoring with Sreekanth</span>
         <h3 className="mainTitle">Learn Coding & Programming</h3>
       </div>
       <a className="uk-button uk-button-default uk-button-medium actionButton" href="#whatiteach">What I teach</a>
